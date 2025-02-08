@@ -2,3 +2,8 @@
 /shelf/
 /workspace.xml
 out/production/
+
+.idea
+*.iws
+*.iml
+*.ipr
